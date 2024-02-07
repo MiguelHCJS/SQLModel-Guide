@@ -1,2 +1,3 @@
-# sql-guide
-Para a pratica com Banco de dados, usando Drive+Script SQL puro,
+# SQL Guide
+
+Para a pratica com Banco de dados, usando ORM;
